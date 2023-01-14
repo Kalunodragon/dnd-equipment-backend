@@ -1,0 +1,1 @@
+# Backend JSON Server for the Dnd Equipment Tracker Tool
